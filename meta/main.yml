@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: "SphereshCI"
+  company: "SphereshCI"
+  license: "Simplified BSD License"
+  description: "CIBox Git Diff"
+  min_ansible_version: 1.o
+  platforms:
+   - name: Ubuntu
+     versions:
+      - precise
+  galaxy_tags:
+    - git
+dependencies: []
+  
